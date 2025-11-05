@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "marathi": "भारतीय संविधान आणि लोक",
+      "english": "Indian Constitution and People"
+    },
+    "brief": {
+      "marathi": "भारतीय संविधान आणि लोक यांचा परस्पर संबंध अधोरेखित करणारा ग्रंथ. संविधानाचा सुलभ भाषेत प्रसार आणि प्रचार करण्याचा प्रयत्न या ग्रंथात केला आहे. संविधान अंमलबजावणीसाठी लोकांचे हक्क आणि उत्तरदायित्व नेमकेपणाने सांगण्याचा एक प्रयत्न. विद्यार्थी, तरुण नागरीक, अभ्यासक, राजकीय कार्यकर्ते यांच्यासाठी अत्यंत उपयुक्त व संग्रही ठेवावा असा ग्रंथ.",
+      "english": "A book highlighting the mutual relationship between the Indian Constitution and the people. An attempt has been made in this book to spread and propagate the Constitution in simple language. An attempt to precisely state the rights and responsibilities of people for the implementation of the Constitution. An extremely useful book worth keeping for students, young citizens, researchers, and political activists."
+    },
+    "synopsis": {
+      "marathi": "भारतीय संविधानाच्या पानापानावर आणि प्रत्येक कलमात एक चेहरा दिसतो. तो असतो भारतीय नागरिकाचा! कधी तो स्त्रीचा असतो तर कधी पुरुषाचा! कधी बालक वा वृद्ध तर कधी दुर्बल वा मागास ! कधी सामान्य माणूस तर कधी कधी राजकारणी !! भारतीय संविधान ही केवळ दर्शन घेण्याची, नमस्कार करण्याची गोष्ट नाही, तसेच ती फक्त डोक्यावर घेऊन नाचण्याची नव्हे, तर 'डोक्यात' घेऊन कृती करण्याची गोष्ट आहे. हा ग्रंथ वाचाल तर, ही दृष्टी आपल्यात नक्कीच येईल.",
+      "english": "On every page and in every article of the Indian Constitution, one sees a face. That is the face of an Indian citizen! Sometimes it is a woman, sometimes a man! Sometimes a child or an elderly person, sometimes weak or backward! Sometimes a common man, sometimes a politician!! The Indian Constitution is not just for viewing or bowing to, nor is it just for dancing with on the head, but it is for taking it 'into the head' and acting. If you read this book, this vision will definitely come to you."
+    },
+    "price": 300,
+    "pages": 210,
+    "cover": "/src/assets/sanvidhan.jpeg",
+    "publisher": {
+      "marathi": "अक्षर दालन, कोल्हापूर",
+      "english": "Akshar Dalan, Kolhapur"
+    },
+    "release": ["15 सप्टेंबर, 2019", "26 नोव्हेंबर, 2020"]
+  },
+  {
+    "id": 2,
+    "title": {
+      "marathi": "तुकाराम नावाचा संत माणूस",
+      "english": "Tukaram: The Saint Man"
+    },
+    "brief": {
+      "marathi": "तुकाराम हे एक क्रांतिकारी, प्रबोधनकार संत होते. त्यांना माणूस म्हणून समजून घेणे सांप्रतकाळी आवश्यक आहे. तुकारामांच्या आयुष्यातील महत्त्वपूर्ण घटनांचा अन्वयार्थ लावणारा आणि त्यांच्या अभंग गाथेवर नवा प्रकाशझोत टाकणारा हा महत्त्वपूर्ण ग्रंथ आहे. एकविसाव्या शतकातील गतिशील माणसाला संत समजून घेण्याचा वस्तुपाठ म्हणून या ग्रंथाकडे पाहता येते.",
+      "english": "Tukaram was a revolutionary, enlightening saint. It is necessary to understand him as a human being in contemporary times. This important book interprets the significant events in Tukaram's life and sheds new light on his Abhanga poetry. This book can be seen as a practical lesson for the dynamic person of the twenty-first century to understand the saint."
+    },
+    "synopsis": {
+      "marathi": "अवघे बेचाळीस वर्षांचे आयुष्य लाभलेल्या तुकारामांचा जीवनप्रवास विस्मयकारी आहे. आयुष्याच्या पूर्वार्धात सुरक्षित जीवन (Comfort Zone) जगलेल्या तुकारामांनी उत्तरार्धात ध्येय निश्चित होताच संघर्षमय जीवन (Effort Zone) स्वीकारले. कोणतीही तमा न बाळगता त्यांनी आपला आंतरिक आणि बाह्य संघर्ष अखेरपर्यंत चालू ठेवला..... अजूनही आमच्यात 'तुकारामत्व' वास करत आहे, पुढेही करेल! आत्यंतिक श्रद्धा आणि परंपरेचा दबाव यामुळे माणसे संतांच्या कर्तृत्वाकडे न पाहता कथीत चमत्कारांच्या आहारी जातात. सुशिक्षित माणसेही बुद्धी व कार्यकारणभावाने विचार न करता जुन्या संकल्पना कवटाळताना दिसतात. अन्यायी, पाखंडी, अभक्त, पापी यांच्यावर शब्दांचे आसूड ओढणाऱ्या तुकारामांना आपण विवेकाने समजून घेऊया. यासाठीच ही साहित्यनिर्मिती !",
+      "english": "The life journey of Tukaram, who lived only forty-two years, is amazing. Tukaram, who lived a safe life (Comfort Zone) in the first half of his life, accepted a life of struggle (Effort Zone) once his goal was determined in the latter half. Without any hesitation, he continued his internal and external struggle until the end..... Even today, 'Tukaram-ness' resides in us, and it will continue to do so! Due to extreme faith and the pressure of tradition, people turn to mythical miracles instead of looking at the saint's work. Even educated people are seen embracing old concepts without thinking with intelligence and cause-effect. Let us understand Tukaram, who drew words of curses on the unjust, hypocritical, non-devotee, and sinners, with wisdom. This is why this literary creation!"
+    },
+    "price": 150,
+    "pages": 100,
+    "cover": "/src/assets/tukaram.jpeg",
+    "publisher": {
+      "marathi": "अक्षर दालन, कोल्हापूर",
+      "english": "Akshar Dalan, Kolhapur"
+    },
+    "release": ["15 नोव्हेंबर, 2019"]
+  },
+  {
+    "id": 3,
+    "title": {
+      "marathi": "महात्मा बसवण्णा: जीवन आणि संघर्ष",
+      "english": "Mahatma Basavanna: Life and Struggle"
+    },
+    "brief": {
+      "marathi": "वेगवेगळ्या कारणांनी माणूसपण क्षीण होऊ पाहणाऱ्या काळात 'महात्मा बसवण्णा: जीवन आणि संघर्ष' हे चरित्र उजेड वाटेसारखे ठरणारे आहे. महात्मा बसवण्णा यांचे जीवन आणि त्यांचा मानवता प्रस्थापनेसाठीचा संघर्ष रोमांचकारी आहे. बाराव्या शतकातील या क्रांतीकारी महापुरुषास समजून घेण्यासाठी हे छोटेखानी चरित्र वाचायलाच हवे.",
+      "english": "In an era when humanity is weakening due to various reasons, the biography 'Mahatma Basavanna: Life and Struggle' is like a ray of light. The life of Mahatma Basavanna and his struggle for the establishment of humanity is thrilling. This brief biography must be read to understand this revolutionary great man of the twelfth century."
+    },
+    "synopsis": {
+      "marathi": "माणुसकीचा संकोच आणि धर्माचे दात धारदार होत असल्याच्या काळात आपल्या समोर बसवण्णांचे चरित्र येत आहे. ते भक्तिप्रधान नसून विचार प्रधान आहे. बसवण्णांचे देवत्वात रूपांतर करण्याच्या काळात असे चरित्र लिहिणे कठीण असते. श्रद्धांचा महापूर थोडा बाजूला करून ते लिहावे लागते. या चरित्र लेखनात तसा प्रयत्न केला आहे. माणसाचं अध्यात्माचे जग स्वर्ग-नरकाशी, आत्म्याशी किंवा देवाशी न जोडता ते माणसाच्या घामाशी जोडणारा एक महामानव म्हणजे महात्मा बसवण्णा! त्यांचे क्रांतिकारी जीवन, विचार आणि कार्य समजून देणारा हा विशेष ग्रंथ.",
+      "english": "Basavanna's biography comes before us in an era when humanity is shrinking and the teeth of religion are sharpening. It is thought-oriented, not devotion-oriented. It is difficult to write such a biography in an era when Basavanna is being transformed into divinity. It has to be written by keeping the great flood of faith aside. Such an attempt has been made in this biography writing. A great human being who connects man's spiritual world not with heaven-hell, soul, or God, but with man's sweat - that is Mahatma Basavanna! This is a special book that explains his revolutionary life, thoughts, and work."
+    },
+    "price": 100,
+    "pages": 96,
+    "cover": "/src/assets/basvanna.jpeg",
+    "publisher": {
+      "marathi": "संवाद प्रकाशन, कोल्हापूर",
+      "english": "Sanvad Prakashan, Kolhapur"
+    },
+    "release": ["15 ऑगस्ट, 2020"]
+  },
+  {
+    "id": 4,
+    "title": {
+      "marathi": "नाळ शिक्षकांच्या संवेदनशील अनुभवांच्या कथा",
+      "english": "Nal: Stories of Teachers' Sensitive Experiences"
+    },
+    "brief": {
+      "marathi": "विद्यार्थी म्हणजे यंत्र नव्हे. प्रत्येक विद्यार्थी हा शिक्षकासाठी वेगळाच असतो. शिक्षक आणि विद्यार्थ्याचे नाते अत्यंत संवेदनशील असते. शिक्षक म्हणून कार्य करताना विद्यार्थी आणि त्याच्या परिवेशाबाबत शिक्षकाला आलेल्या संवेदनशील अनुभवांच्या कथा म्हणजे 'नाळ'. शिक्षकांची आणि विद्यार्थ्यांची अतूट ठरणारी नाळ कथेच्या रूपांमध्ये उलगडत जाते, तेव्हा ते एक साहित्य संचित ठरते. 'नाळ' कथासंग्रहात हे पानोपानी दिसून येते.",
+      "english": "A student is not a machine. Each student is different for the teacher. The relationship between teacher and student is extremely sensitive. The stories of sensitive experiences that a teacher gets about students and their environment while working as a teacher are 'Nal'. When the inseparable umbilical cord between teachers and students unfolds in the form of stories, it becomes a literary treasure. This is evident on every page of the 'Nal' story collection."
+    },
+    "synopsis": {
+      "marathi": "या संग्रहातील पंचवीस कथा वाचताना शिक्षक ही संकल्पना एकूणच समाज पुरुषाचे नाभीस्थान आहे, याचा प्रत्यय येतो. या कथांमध्ये केवळ शिक्षणचित्रे नाहीत, समाजचित्रे नाहीत. केवळ गुरु-शिष्य नात्यातील भावनिक चित्रे नाहीत. तर शिक्षक, विद्यार्थी आणि समाज यांच्या अतूट नाते संबंधातील ताणेबाणे उलघडून दाखवणारा एक विशाल आलेख आहे. शिक्षकांची नाळ विद्यार्थ्यांशी, समाजाशी आणि त्यामुळेच पर्यायाने भूत, वर्तमान आणि भविष्य काळाशी चिरंतन जोडली आहे. शिक्षकाचा धर्म, त्याचे कर्तव्य आणि एकूण जगाशी असणारे त्याचे नातेसंबंध अतिशय संवेदनशील पद्धतीने या कथांमधून व्यक्त होते. 'नाळ' हा संवेदनशील कथांचा आविष्कार मराठी वाङ्मयात मोलाची भर घालणारा ठरणार, हे मात्र निश्चित !",
+      "english": "While reading the twenty-five stories in this collection, one realizes that the concept of teacher is the navel of the entire social being. These stories do not just contain educational pictures, nor just social pictures. They are not just emotional pictures of the guru-disciple relationship. Rather, it is a vast diagram that unfolds the tensions in the inseparable relationship between teacher, student, and society. The teacher's umbilical cord is eternally connected to students, society, and thus, by extension, to the past, present, and future. The teacher's duty, his responsibility, and his relationship with the entire world are expressed in a very sensitive way through these stories. 'Nal' is definitely going to be a valuable addition to Marathi literature with its sensitive stories!"
+    },
+    "price": 250,
+    "pages": 168,
+    "cover": "/src/assets/nal.jpeg",
+    "publisher": {
+      "marathi": "निर्मिती प्रकाशन, कोल्हापूर",
+      "english": "Nirmiti Prakashan, Kolhapur"
+    },
+    "release": ["१५ ऑगस्ट, २०२१"]
+  },
+  {
+    "id": 5,
+    "title": {
+      "marathi": "विद्रोही संत तुकाराम : जीवन आणि कार्य",
+      "english": "Rebel Saint Tukaram: Life and Work"
+    },
+    "brief": {
+      "marathi": "'तुकाराम नावाचा संत माणूस' या ग्रंथाची ही छोटी प्रतिकृती आहे. ही छोटेखानी पुस्तिका कमी वेळेत वाचून तुकारामांचे नवे रूप समजून घेता येते. तुकारामांसाठी आपण काय करावे, हे समजते. संत तुकारामांचा अंतर्बाह्य संघर्ष या पुस्तिकेत वाचायला मिळतो.",
+      "english": "This is a brief version of the book 'Tukaram: The Saint Man'. This small booklet can be read in less time to understand the new form of Tukaram. One understands what we should do for Tukaram. The internal and external struggle of Saint Tukaram can be read in this booklet."
+    },
+    "synopsis": {
+      "marathi": "महाराष्ट्राला संतांची मोठी परंपरा आहे. तेराव्या शतकात संत ज्ञानेश्वरांनी नऊ हजार ओव्यांची 'भावार्थदीपिका' अर्थात 'ज्ञानेश्वरी' लिहून मराठी भाषा समृद्ध केली. मराठी भाषेचे कौतुकच केले. संत नामदेवांनी आपल्या अभंगातून समतेचा संदेश दिला. पंजाब प्रांतापर्यंत नामदेवांनी प्रवास करत अभंगातून लोकांना शिकवण दिली. नामदेवांनी' हिंदी भाषेत अभंग रचले. संत एकनाथांनी अभंग, भारुडे, गवळणी यातून लोकांना जागते ठेवले. याच परंपरेत संत तुकाराम हे भागवत धर्माचा कळस ठरले आहेत. तुकारामांची 'अभंगगाथा' मराठी माणसाच्या हृदय आणि मनावर राज्य करते आहे. तुकारामांचे अभंग स्पष्ट आणि निर्भीड आहेत. समाजात समता आणि समानता यावी, म्हणून तुकारामांनी आपल्या आयुष्यात क्रांतिकारी निर्णय घेतले. तुकारामांचा विद्रोह हे त्यांच्या जीवन चरित्राचे ठळक वैशिष्ट्य आहे.",
+      "english": "Maharashtra has a great tradition of saints. In the thirteenth century, Saint Jnaneshwar wrote the 'Bhavarthadipika' i.e., 'Jnaneshwari' of nine thousand verses, enriching the Marathi language. He praised the Marathi language. Saint Namdev gave the message of equality through his Abhangas. Namdev traveled up to Punjab province and gave teachings to people through Abhangas. Namdev composed Abhangas in Hindi language. Saint Eknath kept people awake through Abhangas, Bharud, and Gavlani. In this same tradition, Saint Tukaram has become the pinnacle of Bhagavata Dharma. Tukaram's 'Abhangagatha' rules over the hearts and minds of Marathi people. Tukaram's Abhangas are clear and fearless. To bring equality and parity in society, Tukaram made revolutionary decisions in his life. Tukaram's rebellion is a prominent feature of his life biography."
+    },
+    "price": 25,
+    "pages": 24,
+    "cover": "/src/assets/vidrohi-tukaram.jpeg",
+    "publisher": {
+      "marathi": "संवाद प्रकाशन, कोल्हापूर",
+      "english": "Sanvad Prakashan, Kolhapur"
+    },
+    "release": ["26 जानेवारी, 2020"]
+  },
+  {
+    "id": 6,
+    "title": {
+      "marathi": "हिंदी वेब साहित्य",
+      "english": "Hindi Web Literature"
+    },
+    "brief": {
+      "marathi": "आज हिंदी भाषा का मुद्रित साहित्य ई-स्वरूप में अधिकतर उपलब्ध हो रहा है। हिंदी साहित्य सामग्री का ई-संस्करण प्रकाशित हो रहा है। विभिन्न वेबसाइट्स और ॲप्स के माध्यम से ये सारे हमारे सामने आ रहे हैं। आधुनिक युग में ये होना आवश्यक और अनिवार्य भी है । इसी दृष्टि से यह छोटी-सी संपादित पुस्तिका आपकी जिज्ञासा बढ़ाएगी। 'हिंदी वेब साहित्य' किताब आपकी ज्ञान लालसा की पूर्ति करेगी।",
+      "english": "Today, Hindi language literature is mostly available in e-format. The e-version of Hindi literature content is being published. All these are coming before us through various websites and apps. In the modern era, this is necessary and inevitable. From this perspective, this small edited booklet will increase your curiosity. The 'Hindi Web Literature' book will fulfill your thirst for knowledge."
+    },
+    "synopsis": {
+      "marathi": "इक्कीसवीं सदी का अध्यापक पेन से नहीं, पेनड्राइव से जुडना अनिवार्य हैं। हमारी आज की छात्रों की पिढ़ी लिखने वाली नहीं, बल्कि टंकित करने वाली है। वह पैदाइशी संगणक साक्षर हैं। हम अध्यापक एवं अभिभावकों को चाहिए कि नये समय के साथ कदम मिलाने के लिए सूचना एवं संपर्क क्रांति से अपने आपको जोडे। अपने को हर दिन अद्यतन ज्ञान से संलग्न रखे। शिक्षा प्रणाली मौखिक एवं संगणकीय संसाधनों से युक्त होगी तो हम नई मुक्त शिक्षा दे पायेंगे। इसके लिए यह 'हिंदी वेब साहित्य' पुस्तिका हमेशा आपकों संदर्भ निर्देशिका का काम देगी। आप खुद इसे पढे, अध्यापन में प्रयोग में लाये और अपने अध्यापन को संदर्भ समृद्ध, सृजन-संपन्न एवं आनंदमय बनाये। ध्यान रहे कि हर अध्यापक को चाहिए कि वे अपने छात्रों की तुलना में ज्ञान, कौशल्य एवं समझदारी के सिलसिले में उच्चतर योग्यता से खुद को सक्षम रखे।",
+      "english": "The teacher of the twenty-first century must connect with a pen drive, not with a pen. Our current generation of students is not writing but typing. They are naturally computer literate. We teachers and parents need to connect ourselves with the information and communication revolution to keep pace with the new times. Keep ourselves engaged with updated knowledge every day. If the education system is equipped with oral and computational resources, we will be able to provide new free education. For this, this 'Hindi Web Literature' booklet will always serve as a reference directory for you. You yourself read it, use it in teaching, and make your teaching reference-rich, creative, and joyful. Remember that every teacher should keep themselves capable with higher qualifications in terms of knowledge, skills, and understanding compared to their students."
+    },
+    "price": 100,
+    "pages": 104,
+    "cover": "/src/assets/hindi.jpeg",
+    "publisher": {
+      "marathi": "समृद्धि प्रकाशन, कोल्हापूर",
+      "english": "Samriddhi Prakashan, Kolhapur"
+    },
+    "release": ["14 नोव्हेंबर, 2020"]
+  },
+  {
+    "id": 7,
+    "title": {
+      "marathi": "डॉ. सुनीलकुमार लवटे : बहुविध संवाद",
+      "english": "Dr. Sunilkumar Lavate: Multifaceted Dialogue"
+    },
+    "brief": {
+      "marathi": "मुलाखत हा साहित्यातील महत्त्वपूर्ण वाङ्मयप्रकार आहे. या प्रक्रियेतील संवादक्षमता ही साहित्याच्या व्यवहारासाठी महत्त्वाची ठरते. 'बहुविध संवाद' या ग्रंथात डॉ. सुनीलकुमार लवटे यांच्याशी दहा मुलाखतीमधून संवाद साधला आहे. त्याचबरोबर डॉ. सुनीलकुमार लवटे यांच्याबाबत बारा मान्यवरांच्या मुलाखती समाविष्ट आहेत. एकूण बावीस मुलाखतींच्या क्ष-किरणातून डॉ. सुनीलकुमार लवटे यांच्या जीवन आणि विचारांची उकल करण्यात आली आहे.",
+      "english": "Interview is an important literary genre in literature. The dialogue capability in this process is important for literary practice. In the book 'Multifaceted Dialogue', dialogue has been established with Dr. Sunilkumar Lavate through ten interviews. Along with this, interviews of twelve eminent people about Dr. Sunilkumar Lavate are included. Through a total of twenty-two interviews, Dr. Sunilkumar Lavate's life and thoughts have been unraveled."
+    },
+    "synopsis": {
+      "marathi": "'डॉ. सुनीलकुमार लवटे: बहुविध संवाद' या ग्रंथातून डॉ. सुनीलकुमार लवटे यांचे जीवन, कार्य, विचार आणि वाङ्मय उलगडण्याचा प्रयत्न केला आहे. जणू हा मुलाखतींचा क्ष- किरण व्यक्ती उकल करतानाचा संवाद परिमल (सुगंध) आहे; जो तात्त्विक आणि सात्त्विक आधार असलेला आहे. हा ग्रंथ व्यक्तिकेंद्रित आहे. या ग्रंथाचे नायक आहेत डॉ. सुनीलकुमार लवटे. डॉ. लवटे यांच्या बहिरंग व अंतरंगाचा शोध घेत असताना एकूण बावीस मुलाखतींचा समावेश या ग्रंथात केलेला आहे. दोन भागांत या मुलाखती वर्गीकृत केल्या आहेत.",
+      "english": "Through the book 'Dr. Sunilkumar Lavate: Multifaceted Dialogue', an attempt has been made to unravel Dr. Sunilkumar Lavate's life, work, thoughts, and literature. This is like the X-ray of interviews that reveals the dialogue fragrance (aroma) while unraveling a person; which has a philosophical and virtuous basis. This book is person-centric. The hero of this book is Dr. Sunilkumar Lavate. While searching for Dr. Lavate's external and internal aspects, a total of twenty-two interviews have been included in this book. These interviews have been classified into two parts."
+    },
+    "price": 400,
+    "pages": 316,
+    "cover": "/src/assets/bahuvidh.jpeg",
+    "publisher": {
+      "marathi": "भाग्यश्री प्रकाशन, कोल्हापूर",
+      "english": "Bhagyashri Prakashan, Kolhapur"
+    },
+    "release": ["9 ऑक्टोबर, 2022"]
+  },
+  {
+    "id": 8,
+    "title": {
+      "marathi": "डॉ. सुनीलकुमार लवटे : जीवन व कार्य",
+      "english": "Dr. Sunilkumar Lavate: Life and Work"
+    },
+    "brief": {
+      "marathi": "सुनीलकुमार लवटे यांचे जीवन म्हणजे...\nआत्मवंचनेसारखी फसवणूक नाही. \nखोटं जगण्यासारखी नाही शिक्षा दुसरी. कूस बदलत रात्र घालवण्यापेक्षा \nमनाची मूस बदलणं सोपं. \nपण त्यासाठी लागतं \nविवेकावर जगण्याचं शिक्षण \nअन शहाणपणही !",
+      "english": "The life of Sunilkumar Lavate means...\nNo deception like self-deception. \nNo punishment like living a lie. Changing the bed to spend the night is easier than \nchanging the mind's mood. \nBut for that, it takes \neducation to live on wisdom \nand wisdom too!"
+    },
+    "synopsis": {
+      "marathi": "प्राचार्य डॉ. सुनीलकुमार लवटे हे ज्येष्ठ साहित्यिक, समीक्षक, संपादक, अनुवादक, सामाजिक कार्यकर्ते, स्मृतिसंग्रहालयांचे निर्माते, अनेक संस्थांचे आधारवड आणि एक कृतिशील विचारवंत म्हणून सर्वपरिचित आहेत. कोल्हापुरच्या भूमीत ते वाढले, घडले आणि शिकले. शिक्षक आणि प्राध्यापक म्हणून त्यांनी अनेक विदयार्थी घडवले. प्रयोगशील प्राचार्य म्हणून त्यांनी नावलौकिक मिळविला. विविध क्षेत्रांमधील त्यांच्या कार्यामुळे कोल्हापूरचे नाव जगभर उंचावले आहे. त्यामुळे समस्त कोल्हापुरकरांना त्यांचा अभिमान वाटला, तर ते वावगे ठरू नये.",
+      "english": "Principal Dr. Sunilkumar Lavate is well-known as a senior litterateur, critic, editor, translator, social worker, creator of memorial museums, support pillar of many institutions, and an active thinker. He grew up, was shaped, and learned in the soil of Kolhapur. As a teacher and professor, he shaped many students. As an experimental principal, he earned fame. Due to his work in various fields, the name of Kolhapur has been elevated worldwide. Therefore, all Kolhapurites feel proud of him, and that should not be wrong."
+    },
+    "price": "विनामूल्य वितरण",
+    "pages": 100,
+    "cover": "/src/assets/lavateSir.jpeg",
+    "publisher": {
+      "marathi": "डॉ. सुनीलकुमार लवटे नागरी सत्कार समिती, कोल्हापूर",
+      "english": "Dr. Sunilkumar Lavate Civic Felicitation Committee, Kolhapur"
+    },
+    "release": ["15 सप्टेंबर, 2022"]
+  },
+  {
+    "id": 9,
+    "title": {
+      "marathi": "मुलास पत्र",
+      "english": "Letters to Children"
+    },
+    "brief": {
+      "marathi": "मुलांस पत्रे लिहून पालक जर समुपदेशन कार्य करतील तर पालक-पाल्यात परस्पर सामंजस्य निर्माण होऊन कौटुंबिक सौहार्द वाढीस बळ येईल. कुमारवयात सुरू झालेला संवाद तारुण्याच्या उंबरठ्यावर ठेच न लागता, न ठेचकाळता पाल्यास जबाबदार व सुजाण नागरिक बनवेल.",
+      "english": "If parents do counseling work by writing letters to children, mutual harmony will be created between parents and children, and family harmony will be strengthened. The dialogue started in childhood will make the child a responsible and wise citizen without stumbling at the threshold of youth."
+    },
+    "synopsis": {
+      "marathi": "संवादी साहित्यकृती वाचकांच्या हाती येत आहे. समाज माध्यमांच्या आहारी जात घरोघरी 'मुलास पत्र' ही विश्वास सुतार यांची पालक पाल्य संवाद कमी होतो आहे. परिणामी नात्यातील ओलावा आटून कोरडेपणा वाढतो आहे. अशा काळात मुलांस पत्रे लिहून पालक जर समुपदेशन कार्य करतील तर पालक-पाल्यात परस्पर सामंजस्य निर्माण होऊन कौटुंबिक सौहार्द वाढीस बळ येईल. कुमारवयात सुरू झालेला संवाद तारुण्याच्या उंबरठ्यावर ठेच न लागता, न ठेचकाळता पाल्यास जबाबदार व सुजाण नागरिक बनवेल. त्यासाठी हे पुस्तक घरोघरी नेऊन पालकांनी मुलांना वाचावयास दिले तर ते जागृत पालकांचे शहाणपण ठरेल. \n- डॉ. सुनीलकुमार लवटे ज्येष्ठ साहित्यिक",
+      "english": "Dialogical literary works are reaching the readers. As homes are being influenced by social media, the dialogue between parents and children 'Letters to Children' by Vishwas Sutar is decreasing. As a result, the warmth in relationships is drying up and dryness is increasing. In such times, if parents do counseling work by writing letters to children, mutual harmony will be created between parents and children, and family harmony will be strengthened. The dialogue started in childhood will make the child a responsible and wise citizen without stumbling at the threshold of youth. For this, if parents take this book home and give it to children to read, it will be the wisdom of awakened parents. \n- Dr. Sunilkumar Lavate, Senior Litterateur"
+    },
+    "price": 150,
+    "pages": 100,
+    "cover": "/src/assets/mulas-patra.jpeg",
+    "publisher": {
+      "marathi": "अक्षर दालन",
+      "english": "Akshar Dalan"
+    },
+    "release": [2023]
+  }
+]
