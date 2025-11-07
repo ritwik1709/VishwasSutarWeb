@@ -225,7 +225,11 @@ const Books = () => {
                             </span>
                             <div className="text-lg text-gray-700 space-y-1">
                               {selectedBook.release.map((date, idx) => (
-                                <div key={idx}>{date}</div>
+                                <div key={idx}>
+                                  {typeof date === 'object' && date !== null
+                                    ? (date[language] || date.marathi || date.english)
+                                    : date}
+                                </div>
                               ))}
                             </div>
                           </div>

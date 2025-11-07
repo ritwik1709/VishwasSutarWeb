@@ -53,13 +53,16 @@ const Navbar = () => {
               </Link>
               <Link
                 to="/samajbhan"
-                className={`px-4 py-2 rounded-lg font-medium transition-all duration-300 ${
+                className={`relative px-4 py-2 rounded-lg font-medium transition-all duration-300 ${
                   isActive('/samajbhan') 
-                    ? 'bg-primary-600 text-white shadow-md' 
-                    : 'text-gray-700 hover:text-primary-700 hover:bg-gray-50'
+                    ? 'bg-gradient-to-r from-primary-600 to-accent-600 text-white shadow-lg' 
+                    : 'text-gray-700 hover:text-white bg-gradient-to-r from-primary-500 to-accent-500 hover:shadow-md'
                 }`}
               >
-                {t.nav.samajbhan}
+                <span className="relative z-10">{t.nav.samajbhan}</span>
+                {!isActive('/samajbhan') && (
+                  <span className="absolute -top-1 -right-1 w-3 h-3 bg-accent-500 rounded-full animate-pulse"></span>
+                )}
               </Link>
             </div>
             
@@ -125,13 +128,16 @@ const Navbar = () => {
             <Link
               to="/samajbhan"
               onClick={() => setMobileMenuOpen(false)}
-              className={`block px-3 py-2 rounded-lg transition-colors ${
+              className={`relative block px-3 py-2 rounded-lg transition-all duration-300 ${
                 isActive('/samajbhan') 
-                  ? 'bg-primary-600 text-white' 
-                  : 'text-gray-700 hover:bg-primary-100'
+                  ? 'bg-gradient-to-r from-primary-600 to-accent-600 text-white shadow-md' 
+                  : 'text-gray-700 hover:text-white bg-gradient-to-r from-primary-500 to-accent-500'
               }`}
             >
-              {t.nav.samajbhan}
+              <span className="relative z-10">{t.nav.samajbhan}</span>
+              {!isActive('/samajbhan') && (
+                <span className="absolute top-1 right-1 w-2 h-2 bg-accent-400 rounded-full"></span>
+              )}
             </Link>
           </div>
         )}

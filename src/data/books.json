@@ -20,7 +20,10 @@
       "marathi": "अक्षर दालन, कोल्हापूर",
       "english": "Akshar Dalan, Kolhapur"
     },
-    "release": ["15 सप्टेंबर, 2019", "26 नोव्हेंबर, 2020"]
+    "release": [
+      {"marathi": "15 सप्टेंबर, 2019", "english": "15 September, 2019"},
+      {"marathi": "26 नोव्हेंबर, 2020", "english": "26 November, 2020"}
+    ]
   },
   {
     "id": 2,
@@ -43,7 +46,7 @@
       "marathi": "अक्षर दालन, कोल्हापूर",
       "english": "Akshar Dalan, Kolhapur"
     },
-    "release": ["15 नोव्हेंबर, 2019"]
+    "release": [{"marathi": "15 नोव्हेंबर, 2019", "english": "15 November, 2019"}]
   },
   {
     "id": 3,
@@ -66,7 +69,7 @@
       "marathi": "संवाद प्रकाशन, कोल्हापूर",
       "english": "Sanvad Prakashan, Kolhapur"
     },
-    "release": ["15 ऑगस्ट, 2020"]
+    "release": [{"marathi": "15 ऑगस्ट, 2020", "english": "15 August, 2020"}]
   },
   {
     "id": 4,
@@ -89,7 +92,7 @@
       "marathi": "निर्मिती प्रकाशन, कोल्हापूर",
       "english": "Nirmiti Prakashan, Kolhapur"
     },
-    "release": ["१५ ऑगस्ट, २०२१"]
+    "release": [{"marathi": "१५ ऑगस्ट, २०२१", "english": "15 August, 2021"}]
   },
   {
     "id": 5,
@@ -112,7 +115,7 @@
       "marathi": "संवाद प्रकाशन, कोल्हापूर",
       "english": "Sanvad Prakashan, Kolhapur"
     },
-    "release": ["26 जानेवारी, 2020"]
+    "release": [{"marathi": "26 जानेवारी, 2020", "english": "26 January, 2020"}]
   },
   {
     "id": 6,
@@ -135,7 +138,7 @@
       "marathi": "समृद्धि प्रकाशन, कोल्हापूर",
       "english": "Samriddhi Prakashan, Kolhapur"
     },
-    "release": ["14 नोव्हेंबर, 2020"]
+    "release": [{"marathi": "14 नोव्हेंबर, 2020", "english": "14 November, 2020"}]
   },
   {
     "id": 7,
@@ -158,7 +161,7 @@
       "marathi": "भाग्यश्री प्रकाशन, कोल्हापूर",
       "english": "Bhagyashri Prakashan, Kolhapur"
     },
-    "release": ["9 ऑक्टोबर, 2022"]
+    "release": [{"marathi": "9 ऑक्टोबर, 2022", "english": "9 October, 2022"}]
   },
   {
     "id": 8,
@@ -181,7 +184,7 @@
       "marathi": "डॉ. सुनीलकुमार लवटे नागरी सत्कार समिती, कोल्हापूर",
       "english": "Dr. Sunilkumar Lavate Civic Felicitation Committee, Kolhapur"
     },
-    "release": ["15 सप्टेंबर, 2022"]
+    "release": [{"marathi": "15 सप्टेंबर, 2022", "english": "15 September, 2022"}]
   },
   {
     "id": 9,
@@ -204,6 +207,76 @@
       "marathi": "अक्षर दालन",
       "english": "Akshar Dalan"
     },
-    "release": [2023]
+    "release": [{"marathi": "2023", "english": "2023"}]
+  },
+  {
+    "id": 10,
+    "title": {
+      "marathi": "अमृत मंथन (भाषण संग्रह)",
+      "english": "Amrit Manthan (Speech Collection)"
+    },
+    "brief": {
+      "marathi": "११ एप्रिल, २०२४ रोजी डॉ. सुनीलकुमार लवटे यांनी  पंच्याहत्तराव्या वर्षात पदार्पण केले. त्यांच्या अमृत महोत्सवी वर्षानिमित्त 'डॉ. सुनीलकुमार लवटे अमृत महोत्सव समिती'च्या वतीने  व्याख्याने, शिक्षण परिषद, लेखक आपल्या भेटीला, इतिहास परिषद अशा प्रमुख उपक्रमांचे आयोजन करण्यात आले. या सर्व उपक्रमांतील निवडक भाषणांचा संग्रह ग्रंथरूपाने साकार व्हावा, या हेतूने निवडक तेरा भाषणांना एकत्रित आणि संस्करण करून संपादन करण्यात आले आहे.",
+      "english": "On April 11, 2024, Dr. Sunilkumar Lavate entered his seventy-fifth year. To celebrate his Amrit Mahotsav year, the ‘Dr. Sunilkumar Lavate Amrit Mahotsav Committee’ organized various events such as lectures, educational conferences, ‘Author Meet’ programs, and a history convention. This book is a collection of thirteen selected and edited speeches from those significant events."
+    },
+    "synopsis": {
+      "marathi": "महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळाचे अध्यक्ष आणि संत साहित्याचे गाढे अभ्यासक डॉ. सदानंद मोरे, पंतप्रधान कार्यालयाचे भाषा सल्लागार डॉ. दामोदर खडसे, प्रबोधनकार इंद्रजित देशमुख, MKCL चे चीफ मेंटॉर डॉ. विवेक सावंत, विचारवंत व पत्रकार प्रा. सुरेश द्वादशीवार, शिक्षणतज्ज्ञ डॉ. बी. एम. हिर्डेकर, शिवाजी विद्यापीठाचे कुलसचिव डॉ. व्ही. एन. शिंदे, बहुआयामी शिक्षक सदानंद कदम, कुशल प्रशासक प्राचार्य प्रवीण चौगले, इतिहास अभ्यासक डॉ. इस्माईल पठाण, छ. शाहू अभ्यासक कॉम्रेड उमेश सूर्यवंशी, ज्येष्ठ लेखक प्राचार्य डॉ. राजेखान शानेदिवाण अशा महनीय वक्त्यांच्या भाषणांचा समावेश या ग्रंथात करण्यात आलेला आहे. तसेच डॉ. सुनीलकुमार लवटे यांनी नागरी सत्कार प्रसंगी व्यक्त केलेले भावशील मनोगत समाविष्ट करण्यात आलेले आहे.  या सर्व भाषणांमधून विविध विषयांवर विचारविनिमय, चर्चा, युक्तीवाद, विश्लेषण, विवरण, अध्ययन, चिंतन, परिशीलन, शहानिशा, खल ऊहापोह, घुसळण अशा  विविध अंगांनी विचार मंथन झालेले आहे.  डॉ. लवटे यांच्या अमृत महोत्सवी वर्षानिमित्त ही सर्व भाषणे झालेली असल्याने या ग्रंथास 'अमृत मंथन' असे सूचक आणि समर्पक शीर्षक देण्यात आले आहे.",
+      "english": "This volume includes insightful speeches by eminent personalities such as Dr. Sadanand More (Chairman, Maharashtra State Board of Literature and Culture and noted scholar of Saint Literature), Dr. Damodar Khadse (Language Advisor, Prime Minister’s Office), Indrajit Deshmukh, Dr. Vivek Sawant (Chief Mentor, MKCL), Prof. Suresh Dwadashiwar, Dr. B. M. Hirdekar, Dr. V. N. Shinde, Sadanand Kadam, Principal Praveen Chougule, Dr. Ismail Pathan, Comrade Umesh Suryawanshi, and Principal Dr. Rajekhan Shanedivan. It also contains Dr. Lavate’s emotional speech delivered during his civic felicitation. Through these lectures, deep discussions, analyses, reflections, and intellectual exchanges take place on various subjects. As all these speeches were delivered during Dr. Lavate’s Amrit Mahotsav year, the book has been aptly titled ‘Amrit Manthan’."
+    },
+    "price": 200,
+    "pages": 191,
+    "cover": "/src/assets/amritmanthan.jpeg",
+    "publisher": {
+      "marathi": "अक्षर दालन, कोल्हापूर",
+      "english": "Akshar Dalan, Kolhapur"
+    },
+    "release": [{"marathi": "11 एप्रिल, 2024", "english": "11 April, 2024"}]
+  },
+  {
+    "id": 11,
+    "title": {
+      "marathi": "खलिलवाणी (महाकवी खलिल जिब्रानच्या विचारांवर मुक्त भाष्य)",
+      "english": "Khalilvani (A Commentary on the Thoughts of Poet Kahlil Gibran)"
+    },
+    "brief": {
+      "marathi": "भारताला प्राचीन संस्कृतीची परंपरा लाभली आहे. अगदी व्यासमुनींपासून लोपामुद्रा, गार्गी अशा महिला ते महाकवी कालिदास, रवींद्रनाथ टागोर, महात्मा गांधी असे विचारवंत भारताने जगाला दिले. काही पाश्चात्त्य विचारवंतांनीही आपल्या ज्ञानामध्ये भर घातली आहे. विल्यम ब्लेक, जॉर्ज रसेल, शेक्सपियर, खलिल जिब्रान यांसारख्या विचारवंत आणि लेखकांनी मानवी मूल्यांना जीवनात अढळ स्थान दिले. त्यांच्या साहित्यात ते प्रकर्षाने दिसून येते.",
+      "english": "India has inherited a great tradition of ancient culture. From sages like Vyasa and women philosophers like Lopamudra and Gargi to literary giants such as Kalidas, Rabindranath Tagore, and Mahatma Gandhi — India has gifted the world with great thinkers. Similarly, several Western philosophers like William Blake, George Russell, Shakespeare, and Kahlil Gibran enriched human thought by upholding human values, which are evident throughout their writings."
+    },
+    "synopsis": {
+      "marathi": "खलिल जिब्रान हा विचारवंत मानवी मूल्यांवर चिंतन करून विश्व-जीवनाशी स्वतःला जोडून घेतो. माणसाच्या हृदयात उचंबळणाऱ्या आशा-आकांक्षा या परमेश्वराच्या, निसर्गाच्या प्रेरणा आहेत, ही खलिलची जीवनविषयक प्रमुख कल्पना आहे. खलिल जिब्रान आणि त्याच्या विचारांना समजून घेण्यासाठी हा लेखन प्रपंच !",
+      "english": "Kahlil Gibran, the eminent thinker, reflects deeply on human values and connects himself with the universal essence of life. His central idea is that the aspirations and desires rising in the human heart are divine and inspired by nature. This book is an insightful attempt to understand Gibran’s philosophy and the spiritual depth behind his thoughts."
+    },
+    "price": 125,
+    "pages": 112,
+    "cover": "/src/assets/khalilvani.jpeg",
+    "publisher": {
+      "marathi": "ज्ञानसंवर्धन प्रकाशन, कोल्हापूर",
+      "english": "Dnyansanvardhan Publications, Kolhapur"
+    },
+    "release": []
+  },
+  {
+    "id": 12,
+    "title": {
+      "marathi": "सुनीलकुमार लवटे : साहित्य विमर्श",
+      "english": "Sunilkumar Lavate: Literary Discourse"
+    },
+    "brief": {
+      "marathi": "डॉ. सुनीलकुमार लवटे यांच्यासारख्या व्यक्ती आपल्या परंपरेतील अपवाद होत. विवाहेतर स्त्री-पुरुष संभव अपत्ये ही लोकोत्तर घडतात, असे वाटते. समाजाने दिलेल्या उपेक्षेच्या राखेतून इतिहास पुराणाच्या पार जाणारे भीष्म पितामह आणि महारथी कर्ण यांच्यासारखे. या दोघांनाही आपले जन्मदाते माता-पिता माहीत होतेही आणि नव्हतेही ! तरी त्यांनी संस्कृतीच्या प्रवाहात आपल्या लोकोत्तर सदगुणांनी आपली नावे अजरामर केली आहेत. डॉ. सुनीलकुमार हे या युगातले महारथी भीष्म आणि कर्ण यांचे वारसदार आहेत, असे मला निश्चितपणे म्हणावेसे वाटते.",
+      "english": "Personalities like Dr. Sunilkumar Lavate are rare exceptions in our tradition. Just as Bhishma Pitamah and the great warrior Karna rose from neglect to eternal greatness despite uncertain parentage, Dr. Lavate stands as a modern successor to such extraordinary figures. His values and character have made him a timeless contributor to the stream of Indian culture."
+    },
+    "synopsis": {
+      "marathi": "डॉ. विश्वास सुतार यांनी सुनीलकुमार लवटे यांच्या मराठीतील साहित्याचा मोठ्या विस्ताराने व तपशीलात अभ्यास केल्याचे या ग्रंथावरून निदर्शनास येते. 'सुनीलकुमार लवटे : साहित्य विमर्श' हा ग्रंथ डॉ. लवटे यांच्या साहित्याच्या अभ्यासकांसाठी एक महत्त्वाचा संदर्भग्रंथ ठरेल, असा मला विश्वास वाटतो.\n\n-डॉ. तारा भवाळकर (प्रस्तावनेतून)",
+      "english": "Dr. Vishwas Sutar has conducted a wide and detailed study of Dr. Sunilkumar Lavate’s Marathi literary work, as evident from this volume. The book ‘Sunilkumar Lavate: Literary Discourse’ will undoubtedly serve as a significant reference for researchers and scholars studying Dr. Lavate’s literature.\n\n— Dr. Tara Bhavalakar (From the Preface)"
+    },
+    "price": 550,
+    "pages": 376,
+    "cover": "/src/assets/lavate_vimarsh.jpeg",
+    "publisher": {
+      "marathi": "संस्कृती प्रकाशन, नारायण पेठ पुणे",
+      "english": "Sanskriti Publications, Narayan Peth, Pune"
+    },
+    "release": []
   }
+    
 ]
