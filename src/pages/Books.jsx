@@ -14,6 +14,9 @@ import hindi from '../assets/hindi.jpeg';
 import bahuvidh from '../assets/bahuvidh.jpeg';
 import lavateSir from '../assets/lavateSir.jpeg';
 import mulasPatra from '../assets/mulas-patra.jpeg';
+import amritmanthan from '../assets/amritmanthan.jpeg';
+import khalilvani from '../assets/khalilvani.jpeg';
+import lavateVimarsh from '../assets/lavate_vimarsh.jpeg';
 
 const imageMap = {
   '/src/assets/sanvidhan.jpeg': sanvidhan,
@@ -25,6 +28,9 @@ const imageMap = {
   '/src/assets/bahuvidh.jpeg': bahuvidh,
   '/src/assets/lavateSir.jpeg': lavateSir,
   '/src/assets/mulas-patra.jpeg': mulasPatra,
+  '/src/assets/amritmanthan.jpeg': amritmanthan,
+  '/src/assets/khalilvani.jpeg': khalilvani,
+  '/src/assets/lavate_vimarsh.jpeg': lavateVimarsh,
 };
 
 const Books = () => {
